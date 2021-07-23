@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 ## Hi there 👋
-I'm Alberth Florêncio and I'm from Fortaleza, CE, Brazil. I have a Master's degree in Computer Science and also, I'm working as a Data Scientist at [Insight Data Science Lab](https://insightlab.ufc.br/). 
+I'm Alberth Florêncio and I'm from Fortaleza, CE, Brazil. I have a Master's degree in Computer Science and also, I'm working as a Data Scientist at [Observatório da Indústria do Ceará](https://www.observatorio.ind.br/). 
 
 - 📈 I’m currently working with data analysis and data extraction
 - 🤖 I’m currently learning deep learning models and visualization techniques

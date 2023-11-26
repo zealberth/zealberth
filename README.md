@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 -->
 
 ## Hi there 👋
-I'm Alberth Florêncio and I'm from Fortaleza, CE, Brazil. I have a Master's degree in Computer Science and also, I'm working as a Data Scientist at [Observatório da Indústria do Ceará](https://www.observatorio.ind.br/). 
+I'm Alberth Florêncio and I'm from Fortaleza, CE, Brazil. I have a Master's degree in Computer Science and also, and I'm working as a Data Scientist at [Anchor Loans](https://www.anchorloans.com/). 
 
-- 📈 I’m currently working with data analysis and data extraction
-- 🤖 I’m currently learning deep learning models and visualization techniques
-- 🍻 Ask me about: beers, memes, movies
+- 📈 I’m currently working with machine learning models on AWS using AWS SageMaker.
+- 🤖 I’m currently learning about MLOps stuff and I'm interested about GenAI
+- 🍻 Ask me about: coffee, memes and movies
 - 💻 Languages: Python3, Matlab, Cypher, SQL
 
 
